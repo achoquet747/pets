@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "name": "Admin test",
+      "lastName": "Admin",
+      "phone": "6784748567",
+      "email": "admin@gmail.com",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Admin",
+      "lastName": "Admin",
+      "phone": null,
+      "email": "admin@gmail.com"
+    },
+    {
+      "name": "newyu nnnnn",
+      "lastName": "new",
+      "phone": "5678453467",
+      "email": "test@test.com",
+      "id": "32bd"
+    },
+    {
+      "id": "7f19",
+      "name": "ARIEL",
+      "lastName": "CHOQUETOPA",
+      "phone": "59172716390",
+      "email": "ariel.choquetopa@hotmail.com"
+    }
+  ],
+  "pets": [
+    {
+      "id": "1",
+      "name": "Winnie",
+      "type": "cat",
+      "sex": "f",
+      "follow": false,
+      "imageUrl": "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcHUyMzMxNjM2LWltYWdlLTAxLXJtNTAzXzMtbDBqOXFrNnEucG5n.png"
+    },
+    {
+      "id": "c651",
+      "name": "Kitty2",
+      "sex": "f",
+      "type": "cat",
+      "follow": false,
+      "imageUrl": "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcHUyMzMxNjM2LWltYWdlLTAxLXJtNTAzXzMtbDBqOXFrNnEucG5n.png"
+    },
+    {
+      "id": "3fc2",
+      "name": "kitty 3",
+      "sex": "f",
+      "type": "cat",
+      "imageUrl": "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcHUyMzMxNjM2LWltYWdlLTAxLXJtNTAzXzMtbDBqOXFrNnEucG5n.png"
+    }
+  ]
+}
